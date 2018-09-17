@@ -2,3 +2,5 @@ amazon.bin
 embed.npy
 knn_fasttext.sav
 rf_fasttext.sav
+ada_fasttext.sav
+svc_fasttext.sav
